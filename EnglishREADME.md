@@ -1,4 +1,4 @@
-# Colorful-Color Media Player
+# Colorful-Cloud Media Player
 ## Basic Statement
 1. This Application is only for ***China mainland***
 2. This Application does not provide film or drama sources, all sources are provided by users themselves
